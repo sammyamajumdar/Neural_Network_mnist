@@ -1,4 +1,4 @@
-# Neural_Network_mnist  
+# Neural_Network_models
 
 1) Trained a Neural Network to predict handwritten digits with the Keras library. Model Accuracy : 98.089%.  
 Dataset is downloaded from the MNIST database.  
